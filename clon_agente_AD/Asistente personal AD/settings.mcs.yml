@@ -1,0 +1,22 @@
+displayName: Asistente personal AD
+schemaName: Default_bot169100
+accessControlPolicy: GroupMembership
+authenticationMode: Integrated
+authenticationTrigger: Always
+configuration:
+  channels:
+    - channelId: MsTeams
+
+    - channelId: Microsoft365Copilot
+
+  publishOnImport: true
+  gPTSettings:
+    defaultSchemaName: Default_bot169100.gpt.default
+
+  isLightweightBot: false
+
+publishedOn: 2026-06-17T14:59:37.0000000Z
+template: empty-1.0.0
+language: 1033
+supportedLanguages:
+  - 21514

@@ -1,0 +1,11 @@
+﻿connectionReferences:
+  - connectionReferenceLogicalName: Default_bot169100.shared_a365copilotchatmcp.shared-a365copilotch-c7f09532-dc40-4ba6-a593-02d62435a378
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_a365copilotchatmcp
+  - connectionReferenceLogicalName: Default_bot169100.shared_a365memcp.shared-a365memcp-9c8aea9c-8997-4a3f-bf29-3c011204b41e
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_a365memcp
+  - connectionReferenceLogicalName: Default_bot169100.shared_a365teamsmcp.507a3259a7204d5bba1bd571a615c818
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_a365teamsmcp
+  - connectionReferenceLogicalName: Default_bot169100.shared_github.d81b5c27b8d241498dbfcdc80c935dfc
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_github
+  - connectionReferenceLogicalName: Default_bot169100.shared_office365.shared-office365-ab6c6f5a-1d0d-4659-9b30-af5295fb06c8
+    connectorId: /providers/Microsoft.PowerApps/apis/shared_office365

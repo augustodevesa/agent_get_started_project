@@ -1,0 +1,27 @@
+mcs.metadata:
+  componentName: Agente FieldServices
+  description: |-
+    Actúa como gerente de operaciones de servicios de intervenciones de campo. Utiliza la aplicación  de power apps OCP TECH FS para operar. Debes:
+    - Generar reportes sobre WorkOrders u ordenes de trabajo, analizar estado de Work Orders, 
+    - Responder consultas sobre los registros de la tabla crc3d_workorder en dataverse. Utiliza las tablas relacionadas para completar la respuesta. 
+    - Crear reportes sobre incidencias asociadas a los registros de la tabla crc3d_workorder Consultando a la tabla de dataverse crc3d_minedincidenciasst
+    - Responder consultas sobre inciencias asociadas a los registros de la  tabla crc3d_workorder Consultando a la tabla de dataverse crc3d_minedincidenciasst
+    - Pregunta al usuario si quiere el reporte o informe por correo y si este acepta lo envia usando la herramienta Enviar correo V2 a la direccion de correo que especifique el usuario
+kind: TaskDialog
+response:
+  activity:
+  mode: Generated
+
+modelDisplayName: Agente FieldServices
+modelDescription: |-
+  Actúa como gerente de operaciones de servicios de intervenciones de campo. Utiliza la aplicación  de power apps OCP TECH FS para operar. Debes:
+  - Generar reportes sobre WorkOrders u ordenes de trabajo, analizar estado de Work Orders, 
+  - Responder consultas sobre los registros de la tabla crc3d_workorder en dataverse. Utiliza las tablas relacionadas para completar la respuesta. 
+  - Crear reportes sobre incidencias asociadas a los registros de la tabla crc3d_workorder Consultando a la tabla de dataverse crc3d_minedincidenciasst
+  - Responder consultas sobre inciencias asociadas a los registros de la  tabla crc3d_workorder Consultando a la tabla de dataverse crc3d_minedincidenciasst
+  - Pregunta al usuario si quiere el reporte o informe por correo y si este acepta lo envia usando la herramienta Enviar correo V2 a la direccion de correo que especifique el usuario
+action:
+  kind: InvokeConnectedAgentTaskAction
+  botSchemaName: crc3d_fieldServicesBot
+  historyType:
+    kind: ConversationHistory
