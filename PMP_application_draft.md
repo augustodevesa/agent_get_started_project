@@ -54,19 +54,59 @@
 - Delivery format: Distance / online
 - Supporting document: Certificate in `cartificadoss_3.pdf`, page 6.
 
-### Universidad Tecnologica Nacional - Project Management Specialist
+### Universidad Tecnologica Nacional - Posgrado en Gestion de Proyectos
 
 - Institution: Universidad Tecnologica Nacional
-- Course / program name: Project Management Specialist
-- Year: 2009
-- Qualifying hours: 40 hours
-- Supporting document: Mentioned in CV. PENDIENTE de adjuntar certificado o confirmar datos.
+- Course / program name: Posgrado en Gestion de Proyectos
+- Faculty / provider: UTN Buenos Aires, Centro de e-Learning, Facultad Regional Buenos Aires
+- Modality: Distance / online
+- Completed version: Equivalent version delivered in 2009
+- Qualifying hours: 90 hours
+- Program reference: Current UTN course page shows an equivalent Posgrado en Gestion de Proyectos program. Use the completed 2009 version and 90-hour duration in the PMP application; keep the current page only as contextual support.
+- Supporting source: https://sceu.frba.utn.edu.ar/e-learning/detalle/posgrado/1218/posgrado-en-gestion-de-proyectos?id=183172
 
 ## Professional Experience
 
 > PMP experience should be entered as projects, not only job positions. Do not double-count overlapping months. The descriptions below are written in a PMI-ready style but need confirmation of dates, team size, budget, methodology and personal responsibilities.
 
-### Project 1 - Installation and Maintenance of Technology Floors for Schools
+### Project 1 - MedicalBit / MedicalSim Project Management Experience
+
+- Organization: MedicalBit, later reconverted into MedicalSim
+- Legal / operating structure: Sociedad de hecho, Augusto Devesa - George Kassis
+- Customer / sponsor: MedicalBit / MedicalSim startup, healthcare professionals and medical residents
+- Job title: Co-founder, Project Manager
+- Project role: Co-founder / Project Manager
+- Project start date: January 2021
+- Project end date: August 2022
+- Project duration counted for PMP: 20 months, pending final PMP non-overlap calculation
+- Project team size: 6 core participants: Augusto Devesa as co-founder and project manager, George Kassis as co-founder and designer / 3D printing specialist, 3 medical advisors and 1 developer.
+- Project budget: Approximately USD 5,000
+- Project methodology: Lean Startup / Agile
+- Industry: Healthcare technology / medical simulation / 3D printing
+- Reference / verifier: George Kassis, co-founder / business partner, +54 9 0221 1556 09713, george@medicalsim.com.ar
+- Public reference: https://www.medicalsim.com.ar/
+
+#### Project Objective
+
+Reduce uncertainty for surgeons before medical interventions by developing patient-specific 3D printed anatomical models based on real patient anatomy. After validating positive results in clinical cases, the MedicalBit initiative evolved and was later reconverted into MedicalSim, focused on developing a lower-cost laparoscopic training simulator for medical residents, designed to support haptic practice and capture training metrics such as number of movements, traveled distance and movement speed.
+
+#### Role and Responsibilities
+
+As co-founder and project manager, I initiated MedicalBit together with George Kassis and drove the evolution from medical 3D anatomical models to the MedicalSim laparoscopic simulator concept, demo, MVP and commercial launch. My responsibilities included scope definition, product roadmap planning, iterative validation with medical advisors, backlog and prototype prioritization, coordination of software, hardware, design and 3D printing activities, budget control, risk and issue management, product documentation, MVP validation and commercial launch planning.
+
+#### Outcome
+
+The startup applied patient-specific 3D anatomical models in approximately 50 medical cases across oncology, peripheral cardiovascular surgery, gynecology and urology, with positive results including an approximate one-hour reduction in intervention time in applicable cases.
+
+The laparoscopic simulator completed demo and MVP phases for both hardware and software, followed by operation manuals, a production-ready product and commercial launch. The solution is currently commercialized through MedicalSim. Six units were sold to institutions including the Hospital Italiano de Buenos Aires training center, Hospital Privado in Mar del Plata and the Sociedad Argentina de Ginecologia.
+
+The current MedicalSim public site presents commercial medical simulation products, including laparoscopic simulators and suture practice products, and confirms nationwide delivery and MedicalSim contact information.
+
+#### Notes
+
+This should be used as the most recent experience entry if it includes project leadership work and falls within the current PMP experience eligibility window.
+
+### Project 2 - Installation and Maintenance of Technology Floors for Schools
 
 - Organization: OCPTECH
 - Customer / sponsor: Educ.Ar - Ministerio de Educacion de la Republica Argentina
@@ -105,33 +145,33 @@ The project completed approximately 7,500 successful school interventions. The r
 
 This is a strong PMP experience entry because it includes a defined customer, national-scale scope, measurable delivery targets, budget/unit economics, a direct leadership role, a multidisciplinary team and a hybrid delivery methodology.
 
-### Project 2 - Novum Digital Customer App Integration
+### Project 3 - Novum Digital Customer App Integration - Required Additional Experience
 
 - Organization: Telefonica / Movistar
 - Job title: Integration Engineer
-- Project role: Integration Lead / Technical Project Lead
+- Project role: Communications Integration Lead / Technical Integration Facilitator
 - Project start date: January 2017
 - Project end date: PENDIENTE. If still active, use the project phase dates actually led.
-- Project duration counted for PMP: PENDIENTE
+- Project duration counted for PMP: PENDIENTE. At least 5 non-overlapping months are required if OCPTECH is the primary entry.
 - Project team size: PENDIENTE
 - Project budget: PENDIENTE
-- Project methodology: Agile / hybrid - PENDIENTE de confirmar
+- Project methodology: Agile / Scrum / hybrid - PENDIENTE de confirmar
 - Industry: Telecommunications / IT
 - Functional reporting contact: Angel David Gallegos Pajares, david.gallegospajares@telefonica.com
 
 #### Project Objective
 
-Deliver the integration between a customer-facing mobile application and Telefonica's communications network and core systems, enabling customers to manage multiple Telefonica services through a single digital experience.
+Deliver the integration of Telefonica's digital customer experience through the Novum transformation program, enabling a natural transition of users from the miMovistar and MovistarTU applications into miMovistar_Novum. The project objective was to integrate communications capabilities and support account, messaging and support integrations, targeting growth to 2.5 million active users in 2018.
 
 #### Role and Responsibilities
 
-I led the integration workstream between the application, network platforms and core systems. My responsibilities included coordinating technical stakeholders, defining integration scope and dependencies, supporting planning and delivery decisions, managing implementation risks and issues, validating operational readiness, and ensuring that the delivered solution supported the target customer experience and growth objectives.
+I was responsible for the communications pillar integration and acted as facilitator for account, messaging and support integrations. My responsibilities included coordinating technical and business stakeholders, defining integration scope and dependencies, aligning application and telecommunications platforms, supporting planning and delivery decisions, managing implementation risks and issues, validating operational readiness, and ensuring that the delivered solution supported the expected customer migration and active-user growth objectives.
 
 #### Outcome
 
-The project delivered an integrated digital customer experience and supported the planned scaling of the application user base. PENDIENTE: confirm actual delivery metrics, dates, user growth and production outcomes.
+The project supported Telefonica's digital transformation and the planned migration of users from legacy customer applications into miMovistar_Novum, with a target of 2.5 million active users in 2018. PENDIENTE: confirm actual delivery metrics, exact project phase dates, team size, budget range and production outcomes.
 
-### Project 3 - MovistarTU / TUGo Multi-Country Launch and Operations
+### Project 4 - MovistarTU / TUGo Multi-Country Launch and Operations
 
 - Organization: Telefonica / Movistar
 - Job title: OB Coordinator
@@ -157,7 +197,7 @@ I was responsible for integration, launch coordination and operational readiness
 
 The service reached approximately 1.5 million users, achieved 99.5% platform availability and maintained restoration time below 2 hours. PENDIENTE: confirm whether these metrics correspond to the full project scope and can be used in the application.
 
-### Project 4 - Corporate Communications Solutions Portfolio and Partner Development
+### Project 5 - Corporate Communications Solutions Portfolio and Partner Development
 
 - Organization: Telefonica de Argentina, Corporate Segment
 - Job title: Product Manager
@@ -182,7 +222,7 @@ I led partner development activities and coordinated the commercial and technica
 
 The initiative supported the annual sales budget target of approximately USD 8 million for communications, infrastructure and networking solutions. PENDIENTE: confirm measurable results versus target.
 
-### Project 5 - Corporate Telecommunications and Infrastructure Deployments
+### Project 6 - Corporate Telecommunications and Infrastructure Deployments
 
 - Organization: Telefonica Empresas
 - Job title: Project Manager
@@ -232,10 +272,9 @@ Projects delivered telecommunications and infrastructure capabilities for multip
 
 ## Questions To Finalize The PMP Application
 
-1. Confirm whether the PMP application should include only the OCPTECH schools project or also add Novum if more recent experience is needed.
-2. If Novum is required, provide the dates for the phase you led, month and year.
-3. Confirm whether you want MovistarTU / TUGo submitted as a program-level experience entry or split into country-level projects.
-4. For the OCPTECH schools project, confirm whether phone numbers should be added for Fernando Lopez Caminal and Fernando Huttin, or whether email-only verifier contact is acceptable.
+1. For Novum, provide the exact dates for the phase you led, month and year, only if you want to include it as additional depth beyond the 36-month eligibility threshold.
+2. For Novum, confirm the team size, methodology, budget range, main deliverables and verifier contact if it will be included.
+3. For the OCPTECH schools project, confirm whether phone numbers should be added for Fernando Lopez Caminal and Fernando Huttin, or whether email-only verifier contact is acceptable.
 
 ## Recommended Next Version
 
@@ -258,7 +297,11 @@ After answering the questions above, the next version should convert the selecte
 
 ## Experience Selection Strategy
 
-- Primary PMP experience entry: OCPTECH - Installation and Maintenance of Technology Floors for Schools, August 2022 to March 2025.
-- Use current PMI experience lookback rules and prioritize recent experience.
-- Add Novum only if additional eligible experience is required.
-- Treat MovistarTU / TUGo as a program with separate country projects if more detailed historical experience is needed.
+- Most recent PMP experience entry before OCPTECH: MedicalBit / MedicalSim, January 2021 to August 2022.
+- Primary detailed PMP experience entry: OCPTECH - Installation and Maintenance of Technology Floors for Schools, August 2022 to March 2025.
+- Use current PMI experience rules and prioritize recent, non-overlapping experience.
+- OCPTECH provides approximately 31 months, which is not enough by itself for the 36-month requirement for applicants with a bachelor degree.
+- MedicalBit / MedicalSim provides approximately 20 additional months before OCPTECH. MedicalBit / MedicalSim plus OCPTECH should satisfy the 36-month experience requirement if PMI accepts both as eligible project leadership experience.
+- Avoid overlapping experience months. Count MedicalBit / MedicalSim up to August 2022 and OCPTECH from August 2022 to March 2025 according to final PMP date rules; if needed, use September 2022 as the OCPTECH count start to avoid any overlap in August 2022.
+- Add Novum only if a broader experience profile is preferred or if PMI asks for more detail.
+- Keep MovistarTU / TUGo as reserve experience only if PMI or the application review requires more detail.
