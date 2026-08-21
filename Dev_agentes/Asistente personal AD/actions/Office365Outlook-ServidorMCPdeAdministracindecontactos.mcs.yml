@@ -1,0 +1,14 @@
+mcs.metadata:
+  componentName: Office 365 Outlook - Servidor MCP de Administración de contactos
+kind: TaskDialog
+modelDisplayName: Servidor MCP de Administración de contactos
+modelDescription: Este servidor MCP administra los contactos
+action:
+  kind: InvokeExternalAgentTaskAction
+  connectionReference: Default_bot169100.shared_office365.shared-office365-ab6c6f5a-1d0d-4659-9b30-af5295fb06c8
+  connectionProperties:
+    mode: Invoker
+
+  operationDetails:
+    kind: ModelContextProtocolMetadata
+    operationId: mcp_ContactsManagement

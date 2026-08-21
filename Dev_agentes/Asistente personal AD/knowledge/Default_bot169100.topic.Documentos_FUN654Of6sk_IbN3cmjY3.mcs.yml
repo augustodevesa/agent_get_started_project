@@ -1,0 +1,10 @@
+mcs.metadata:
+  componentName: Documentos
+  description: Este origen de conocimiento proporciona información que se encuentra en Documentos.
+kind: KnowledgeSourceConfiguration
+source:
+  kind: FederatedStructuredSearchSource
+  connectionProperties:
+    mode: Invoker
+
+  skillConfiguration: Documentos_XEQR5cXMOht6eAjy3u1e3

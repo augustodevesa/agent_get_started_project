@@ -1,0 +1,14 @@
+mcs.metadata:
+  componentName: Office 365 Outlook - Servidor MCP de administración de correo electrónico (en desuso)
+kind: TaskDialog
+modelDisplayName: Servidor MCP de administración de correo electrónico (en desuso)
+modelDescription: Este servidor MCP administra los mensajes de correo electrónico de su cuenta de Office 365
+action:
+  kind: InvokeExternalAgentTaskAction
+  connectionReference: Default_bot169100.shared_office365.shared-office365-ab6c6f5a-1d0d-4659-9b30-af5295fb06c8
+  connectionProperties:
+    mode: Invoker
+
+  operationDetails:
+    kind: ModelContextProtocolMetadata
+    operationId: mcp_EmailsManagement

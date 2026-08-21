@@ -1,0 +1,5 @@
+schemaName: bot_componentcollection_appcopilot_v1
+displayName: AppCopilot_ComponentCollection_V1
+description: Component collection for App Copilot V1
+configuration:
+  primaryLanguage: 1033

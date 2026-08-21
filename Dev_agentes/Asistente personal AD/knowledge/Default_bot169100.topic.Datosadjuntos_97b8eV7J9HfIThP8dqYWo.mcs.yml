@@ -1,0 +1,10 @@
+mcs.metadata:
+  componentName: Datos adjuntos
+  description: Este origen de conocimiento proporciona información que se encuentra en Datos adjuntos.
+kind: KnowledgeSourceConfiguration
+source:
+  kind: FederatedStructuredSearchSource
+  connectionProperties:
+    mode: Invoker
+
+  skillConfiguration: Datosadjuntos_WOfjzs7XKHrSY3kek0fiO
