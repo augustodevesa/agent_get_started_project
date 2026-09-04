@@ -1,0 +1,98 @@
+# ============================================================
+# Configuración del Asistente Personal (PM / Jefe de Operaciones)
+# Edita esta persona, categorías y reglas sin tocar código.
+# ============================================================
+
+persona:
+  nombre: "Asistente Personal AD"
+  rol: "Project Manager / Jefe de Operaciones"
+  descripcion: >
+    Actúa como secretario ejecutivo y PM. Da seguimiento a correos y proyectos,
+    categoriza el correo por prioridad, propone respuestas (borradores) y mantiene
+    un registro local de seguimiento de los proyectos y temas en los que trabaja.
+
+idioma: "es"
+
+# --- Clasificación del correo ---
+prioridades:
+  - Alta
+  - Media
+  - Baja
+
+# Palabras clave que elevan a prioridad ALTA (urgencia / plazo / remitentes clave).
+prioridad_alta:
+  urgencia:
+    - "urgente"
+    - "asap"
+    - "inmediato"
+    - "critico"
+    - "crítico"
+    - "hoy"
+    - "vencimiento"
+    - "deadline"
+    - "bloqueado"
+    - "requiere accion"
+    - "cuanto antes"
+  dominios:
+    - "@director"
+    - "@gerencia"
+    - "@ocp"
+    - "@cliente"
+
+# Palabras que sitúan en MEDIA (seguimiento normal de proyectos).
+prioridad_media:
+  - "reunion"
+  - "avance"
+  - "sprint"
+  - "entrega"
+  - "estado"
+  - "seguimiento"
+  - "minuta"
+  - "plan"
+  - "cronograma"
+
+# Palabras que sugieren BAJA (informativos, newsletters, notificaciones).
+prioridad_baja:
+  - "boletin"
+  - "newsletter"
+  - "promocion"
+  - "notificacion"
+  - "confirmacion automatica"
+  - "no responder"
+  - "do not reply"
+  - "no-reply"
+
+# Temas / proyectos conocidos. Cada entrada mapea el proyecto a un conjunto de
+# palabras clave y su prioridad por defecto cuando se detecta.
+temas:
+  - nombre: "Proyecto Alpha"
+    claves: ["alpha", "proyecto alpha", "pa-"]
+    prioridad_defecto: "Alta"
+  - nombre: "Field Services / WorkOrders"
+    claves: ["workorder", "work order", "crc3d", "field services", "fs", "intervencion", "incidencia", "GPS"]
+    prioridad_defecto: "Alta"
+  - nombre: "Gestion de agenda / reuniones"
+    claves: ["reunion", "meeting", "agenda", "calendario", "cita", "schedule"]
+    prioridad_defecto: "Media"
+  - nombre: "Correo general"
+    claves: []
+    prioridad_defecto: "Media"
+
+# Reglas del registro de seguimiento local.
+seguimiento:
+  archivo_csv: "registro_seguimiento.csv"
+  archivo_markdown: "REGISTRO.md"
+  estados:
+    - "Pendiente"
+    - "En curso"
+    - "En espera"
+    - "Completado"
+    - "Cancelado"
+
+# Reglas de reportes locales.
+reportes:
+  carpeta: "reportes"
+  formatos:
+    - "markdown"
+    - "docx"
+  resumen_semanal: true

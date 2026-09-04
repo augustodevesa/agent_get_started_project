@@ -1,0 +1,17 @@
+# Entorno y credenciales
+.env
+.venv/
+__pycache__/
+*.pyc
+
+# Caché de tokens (contiene credenciales)
+data/token_cache.bin
+data/token_cache.bin.*
+
+# Reportes generados localmente
+data/reportes/*.docx
+
+# VS Code / OS
+.vscode/
+.DS_Store
+Thumbs.db
